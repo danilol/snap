@@ -53,6 +53,83 @@
       "mobileFlag": false,
       "sharingOption": "",
       "id": 1
+    },
+    {
+      "technology": "VNC",
+      "state": "StartAttempt",
+      "mobileFlag": false,
+      "sharingOption": "",
+      "id": 2
+    },
+    {
+      "technology": "VNC",
+      "state": "StartAttempt",
+      "mobileFlag": true,
+      "sharingOption": "Mobile Display",
+      "id": 3
+    },
+    {
+      "technology": "VNC",
+      "state": "StartAttempt",
+      "mobileFlag": true,
+      "sharingOption": "Mobile Display",
+      "id": 4
+    },
+    {
+      "technology": "VNC",
+      "state": "PauseAttempt",
+      "mobileFlag": true,
+      "sharingOption": "Mobile Display",
+      "id": 5
+    },
+    {
+      "technology": "VNC",
+      "state": "FinishAttempt",
+      "mobileFlag": true,
+      "sharingOption": "Mobile Display",
+      "id": 6
+    },
+    {
+      "technology": "VNC",
+      "state": "StartAttempt",
+      "mobileFlag": false,
+      "sharingOption": "",
+      "id": 7
+    },
+    {
+      "technology": "VNC",
+      "state": "PresentAttempt",
+      "mobileFlag": false,
+      "sharingOption": "Screen Sharing",
+      "id": 8
+    },
+    {
+      "technology": "VNC",
+      "state": "FinishAttempt",
+      "mobileFlag": false,
+      "sharingOption": "Screen Sharing",
+      "id": 9
+    },
+    {
+      "technology": "VNC",
+      "state": "StartAttempt",
+      "mobileFlag": false,
+      "sharingOption": "",
+      "id": 10
+    },
+    {
+      "technology": "VNC",
+      "state": "PauseAttempt",
+      "mobileFlag": false,
+      "sharingOption": "",
+      "id": 11
+    },
+    {
+      "technology": "VNC",
+      "state": "UnpauseAttempt",
+      "mobileFlag": false,
+      "sharingOption": "",
+      "id": 12
     }
   ]
 }
